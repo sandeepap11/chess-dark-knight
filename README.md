@@ -1,4 +1,4 @@
-This react project mulates the movement of the Knight on click. Please clone and run npm install to install the app and then npm start to run the app.
+This react project emulates the movement of the Knight on click. Please clone and run npm install to install the app and then npm start to run the app.
 
 
 
