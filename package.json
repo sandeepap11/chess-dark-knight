@@ -1,6 +1,7 @@
 {
   "name": "chess-horse",
   "version": "0.1.0",
+  "homepage": "/chessknight",
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
